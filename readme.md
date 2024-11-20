@@ -16,9 +16,9 @@
     The backend will run on http://localhost:3000.
     ```
 
-###Frontend
+### Frontend
 
-Navigate to the frontend directory:
+1. **Navigate to the frontend directory**:
 
     ```bash
     cd <repository-frontend-directory>
@@ -33,8 +33,8 @@ Navigate to the frontend directory:
     The frontend will run on http://localhost:3001 or another available port.
     ```
 
-###.env
+### .env
 
-```bash
-MONGO_URI=??the uri string??
-```
+    ```bash
+    MONGO_URI=??the uri string??
+    ```
