@@ -4,34 +4,35 @@
     ```bash
     git clone <repository-url>
     cd <repository-backend-directory>
-    Install dependencies:
     ```
-
+    
+2. **Install dependencies**:
     ```bash
     npm install
-    Start the server:
     ```
+    
+3. **Start the server**:
     ```bash
     npm start
-    The backend will run on http://localhost:3000.
     ```
-
+   The backend will run on http://localhost:3000.
+   
 ### Frontend
 
 1. **Navigate to the frontend directory**:
 
     ```bash
     cd <repository-frontend-directory>
-    Install dependencies:
     ```
+2. **Install dependencies**:
     ```bash 
     npm install
-    Start the frontend:
     ```
+3. **Start the frontend**:
     ```bash
     npm start
-    The frontend will run on http://localhost:3001 or another available port.
     ```
+    The frontend will run on http://localhost:3001 or another available port. 
 
 ### .env
 
