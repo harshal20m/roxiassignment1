@@ -1,7 +1,3 @@
-# Transaction Application
-
-## How to Run the Project
-
 ### Backend
 
 1. **Clone the repository**:
