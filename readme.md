@@ -15,6 +15,16 @@
     ```bash
     npm start
     ```
+4. **.env**:
+    ```bash
+    MONGO_URI=??the uri string??
+    ```
+5. **initialize the database**
+   ```bash
+   GET http://localhost:5000/api/initialize
+   ```
+   this will initialize the database with provided seed url at backend 
+    
    The backend will run on http://localhost:3000.
    
 ### Frontend
@@ -30,12 +40,7 @@
     ```
 3. **Start the frontend**:
     ```bash
-    npm start
+    npm run dev
     ```
     The frontend will run on http://localhost:3001 or another available port. 
 
-### .env
-
-    ```bash
-    MONGO_URI=??the uri string??
-    ```
